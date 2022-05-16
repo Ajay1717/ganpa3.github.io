@@ -6,8 +6,8 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE;
 
 module.exports = {
     siteMetadata: {
-        siteTitle: `Ganesh`,
-        siteTitleAlt: `Ganesh Pawar`,
+        siteTitle: `Ajay`,
+        siteTitleAlt: `Ajay Ganesh Pawar`,
     },
     plugins: [
         {
@@ -26,11 +26,11 @@ module.exports = {
                 externalLinks: [
                     {
                         name: `LinkedIn`,
-                        url: `https://www.linkedin.com/in/ganesh-pawar-6675611b7`,
+                        url: `https://www.linkedin.com/in/ajay-pawar-69558b1b2`,
                     },
                     {
                         name: `GitHub`,
-                        url: `https://github.com/ganpa3`,
+                        url: `https://github.com/Ajay1717`,
                     },
                 ],
             },
